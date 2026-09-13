@@ -2,6 +2,11 @@
 
 A modern, responsive Android panic button application built with Kotlin and Jetpack Compose. The app allows drivers to quickly trigger an SOS alert that automatically contacts the nearest available registered members in case of an emergency.
 
+
+
+
+
+
 ## Approach & Architecture
 
 - **UI Framework:** Built entirely using **Jetpack Compose** for a reactive, state-driven, and smooth user interface. Features custom animations (e.g., pulsing search indicators, countdown rings, glassmorphism cards).
